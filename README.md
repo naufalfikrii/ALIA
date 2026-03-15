@@ -135,6 +135,9 @@ ALIA/
 ```
 
 ---
+## 📽️ Demo Video 
+
+Demo video on this link: https://youtu.be/TplrnQ5wFTc
 
 ## 🤝 Contributing
 
